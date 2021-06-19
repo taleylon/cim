@@ -1,0 +1,8 @@
+moviepy>=1.0.3
+pytube>=10.8.4
+streamlit>=0.82.0
+numpy>=1.19.2
+gaugan>=1.1
+opencv-python>=4.5.2.52
+pillow>=8.0.1
+stqdm>=0.0.3
